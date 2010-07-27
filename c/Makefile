@@ -1,0 +1,1 @@
+emacsCompletionTest: emacsCompletionTest.c
